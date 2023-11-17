@@ -3,4 +3,4 @@ Listing our favorite desserts
 
 - Darcy, cake
 - Miya, gelato
-- Renate, pistachio ice cream
+- Renata, pistachio ice cream
