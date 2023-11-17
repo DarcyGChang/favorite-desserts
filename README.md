@@ -2,3 +2,4 @@
 Listing our favorite desserts
 
 - Darcy, cake
+- Miya, gelato
